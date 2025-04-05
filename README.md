@@ -12,7 +12,7 @@ Pyxcel helps you to generate random person dataset for excel practicing.
 
 1. When you generte data make sure, your choosen location file is closed.
 2. Pyxcel currently is newly lauched so some times it will throw errors.
-3. 
+
 ***** We will add new featues soon *****
 
 "Enjoy learning"
